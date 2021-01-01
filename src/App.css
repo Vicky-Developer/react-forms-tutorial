@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.modal {
+  pointer-events: none;
+}
+
+.modal-dialog {
+  pointer-events: all;
+}
